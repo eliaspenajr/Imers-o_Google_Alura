@@ -1,2 +1,3 @@
-# Imers-o_Google_Alura
-Projetos para o desafio da imersão Google/Alura
+# Imersão_Google_Alura em Gemini
+Projeto para o desafio da imersão Google/Alura
+PROJETO: Mensagens de Esperança
